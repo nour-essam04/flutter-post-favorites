@@ -79,7 +79,9 @@ When an internet connection is unavailable:
 
 ### Favorites Screen
 ![Favorites](screenshots/favorites.png)
-![Favorites](screenshots/empty favorites.png)
+
+### Empty Favorites Screen
+![Empty Favorites](screenshots/empty favorites.png)
 
 ### Offline Mode
 ![Offline](screenshots/offline.png)
