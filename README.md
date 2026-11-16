@@ -81,7 +81,7 @@ When an internet connection is unavailable:
 ![Favorites](screenshots/favorites.png)
 
 ### Empty Favorites Screen
-![Empty Favorites](screenshots/empty favorites.png)
+![Empty Favorites](screenshots/empty-favorites.png)
 
 ### Offline Mode
 ![Offline](screenshots/offline.png)
