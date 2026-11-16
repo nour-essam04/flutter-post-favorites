@@ -71,14 +71,7 @@ When an internet connection is unavailable:
 - Saved favorite posts remain accessible.
 - Favorites persist after restarting the application.
 
-## Screenshots
 
-Add screenshots of the following:
-- Posts screen
-- Posts with selected favorites
-- Favorites screen
-- Favorites empty state
-- Application working offline
 ## Screenshots
 
 ### Posts Screen
